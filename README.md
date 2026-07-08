@@ -6,6 +6,7 @@ This is a basic face-swap implementation using OpenCV. Check out the code for a 
 2) numpy
 3) dlib (for the landmark detection)
 4) Python 3
+5) Machine Learning
 
 # Abstract
 Face swapping has been a thriving genre of work which primarily is associated with the replacement or substitution of one referral face on the face of 
